@@ -6,7 +6,7 @@
 
 # 🌐 Me encontre por aqui:
 <p align="left">
-<a href="https://linkedin.com/in/em-andamento" target="_blank">
+<a href="www.linkedin.com/in/laiane-nunes-5901563a3" target="_blank">
   <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/MariaLaiane/MariaLaiane.git" target="_blank">
