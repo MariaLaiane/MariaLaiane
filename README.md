@@ -2,7 +2,7 @@
 🎓 **Técnico em Desenvolvimento de Sistemas**  
 💡 Sempre em busca de novos conhecimentos e desafios  
 🚀 Apaixonada por desenvolver softwares e criar soluções com tecnologia  
-🔭 Esforçada, dedicada e fascinada por transformar ideias em projetos reais
+
 <p align="left">
 <a href="https://www.linkedin.com/in/laiane-nunes-5901563a3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
